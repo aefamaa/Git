@@ -1,0 +1,59 @@
+.bola{
+    width: 400px;
+    height: 150px;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 30px;    
+    display: flex;
+    background-color: #995DB5;
+    justify-content: center;
+   gap: 20px
+   ;
+}
+.nevara{
+    width: 80px;
+    height: 10px;
+    padding: 30px 0;
+    background-color: 
+    #F7941F;
+    border-radius: 30px;
+   justify-content: start;
+   gap: 20px;
+border-radius: 8px;
+ 
+}
+.ota{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.bola:nth-child(1){
+    justify-content: start;
+}
+.bola:nth-child(2){
+    justify-content: space-around;
+}
+.bola:nth-child(3){
+    justify-content: space-between;
+}
+.bola:nth-child(3){
+    justify-content: space-evenly;
+}
+.bola:nth-child(4){
+    justify-content: space-between ;
+}
+.bola:nth-child(5){
+    justify-content: end ;
+}
+.bola:nth-child(6){
+justify-content: center;
+}
+.bola:nth-child(7){
+justify-content: start;
+}
+.bola:nth-child(8){
+justify-content: start;
+}
+.bola:nth-child(9){
+
+}
